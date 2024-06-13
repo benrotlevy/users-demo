@@ -1,0 +1,100 @@
+[{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f4e"
+  },
+  "name": "Alice Cohen",
+  "password": "a1s2d3f4",
+  "age": 25
+},
+{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f4f"
+  },
+  "name": "Bob Johnson",
+  "password": "b2e4r6t8",
+  "age": 30
+},
+{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f50"
+  },
+  "name": "Carol Williams",
+  "password": "c3t6y9u0",
+  "age": 22
+},
+{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f51"
+  },
+  "name": "David Brown",
+  "password": "d4f7g0h1",
+  "age": 28
+},
+{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f52"
+  },
+  "name": "Eve Jones",
+  "password": "e5g8h1j2",
+  "age": 27
+},
+{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f53"
+  },
+  "name": "Frank Miller",
+  "password": "f6h9j2k3",
+  "age": 35
+},
+{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f54"
+  },
+  "name": "Grace Davis",
+  "password": "g7j0k3l4",
+  "age": 24
+},
+{
+  "_id": {
+    "$oid": "666ad055533a70d7d4c59f55"
+  },
+  "name": "Hank Wilson",
+  "password": "h8k1l4m5",
+  "age": 32
+},
+{
+  "_id": {
+    "$oid": "666aef3634c5ea438d0f6f20"
+  },
+  "name": "Gad Elbaz",
+  "password": "hdjffwf",
+  "age": 40,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666af8118f46ab509a25c385"
+  },
+  "name": "Jacob Levy",
+  "password": "24324444444",
+  "age": 21,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666af8cb1172f10ce94aa948"
+  },
+  "name": "Ben Rot",
+  "password": "3437653",
+  "age": 7,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666af93f71f15e9362704ec1"
+  },
+  "name": "Dan Israeli",
+  "password": "23145425636",
+  "age": 45,
+  "__v": 0
+}]
